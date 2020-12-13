@@ -77,15 +77,15 @@ MSG_USE
 ; Use
 ;
 MSG_UNDO
-Отменить
+Откатить
 ; Undo
 ;
 MSG_RESET
-Как было
+Сбросить
 ; Reset
 ;
 MSG_CANCEL
-Отмена
+Выход
 ; Cancel
 ;
 MSG_OUTPUT_FIELD
