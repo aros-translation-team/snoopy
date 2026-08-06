@@ -1,0 +1,184 @@
+## version $VER: snoopy.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_TITLE
+Snoopy
+; Snoopy
+;
+MSG_COPYRIGHT
+\xa9 2006-2008, AROS razvojni tim
+; \xa9 2006-2008, The AROS Development Team
+;
+MSG_AUTHOR
+AROS razvojni tim
+; The AROS Development Team
+;
+MSG_PORTNAME
+SNOOPY
+; SNOOPY
+;
+MSG_DESCRIPTION
+Jednostavan sistemski monitor
+; Simple system monitor
+;
+MSG_SETTINGS
+Podeçavanja
+; Settings
+;
+MSG_SHOW_FAILS
+Prika§i samo neuspehe
+; Only show fails
+;
+MSG_CLI_NUMBER
+Prika§i broj CLI-ja
+; Show CLI number
+;
+MSG_FULL_PATH
+Prika§i pune putanje
+; Show full paths
+;
+MSG_DEVICE
+Koristi imena ureÐaja
+; Use device names
+;
+MSG_IGNORE_WB
+Zanemari Workbench/Shell
+; Ignore Workbench/Shell
+;
+MSG_BREAKPOINT
+Postavi prekidnu taŸku
+; Set breakpoint
+;
+MSG_MATCH
+Poklapanje imena
+; Match name
+;
+MSG_SYSTEM_FUNC
+Sistemske funkcije
+; System Functions
+;
+MSG_DOS_FUNC
+AmigaDOS funkcije
+; AmigaDOS Functions
+;
+MSG_SAVE
+Snimi
+; Save
+;
+MSG_OPEN
+Otvori
+; Open
+;
+MSG_USE
+Koristi
+; Use
+;
+MSG_UNDO
+Opozovi
+; Undo
+;
+MSG_RESET
+Resetuj
+; Reset
+;
+MSG_CANCEL
+Poniçti
+; Cancel
+;
+MSG_OUTPUT_FIELD
+æirina izlaznog polja
+; Output Field Width
+;
+MSG_NAME
+Ime
+; Name
+;
+MSG_ACTION
+Akcija
+; Action
+;
+MSG_TARGET
+Cilj
+; Target
+;
+MSG_OPTION
+Opcija
+; Option
+;
+MSG_OK
+OK
+; OK
+;
+MSG_FAIL
+Neuspeh
+; Fail
+;
+MSG_ERROR_SAVE
+Doçlo je do greçke pri snimanju u %s
+; An error happened when saving to %s
+;
+MSG_ERROR_LOAD
+Doçlo je do greçke pri uŸitavanju iz %s
+; An error happened when loading from %s
+;
+MSG_RESET_PATCHES
+Resetuj zakrpe|Odustani
+; Reset Patches|Cancel
+;
+MSG_ASK_RESET
+Da li zaista §elite da vratite zakrpe na njihove originalne funkcije?
+; Do you really want to reset the patches to their original functions?
+;
+MSG_REMOVE_SNOOP
+Ukloni|Zadr§i
+; Remove|Keep
+;
+MSG_ASK_REMOVE
+Da li zaista §elite da uklonite Snoopy proces?\nOvo mo§e biti priliŸno opasno ako je drugi zadatak zakrpio Snoopyjeve zakrpe.
+; Do you really want to remove the Snoopy process?\nThis can be quite dangerous when another task has patched Snoopy's patches.
+;
+MSG_GLOBAL
+Globalno
+; Global
+;
+MSG_LOCAL
+Lokalno
+; Local
+;
+MSG_ALIAS
+Alijas
+; Alias
+;
+MSG_UNKNOWN
+Nepoznato
+; Unknown
+;
+MSG_ANY
+Bilo koji
+; Any
+;
+MSG_READ
+¬itanje
+; Read
+;
+MSG_WRITE
+Pisanje
+; Write
+;
+MSG_READ_ASK
+¬itanje???
+; Read???
+;
+MSG_MODIFY
+Izmeni
+; Modify
+;
+MSG_VERSION
+Verzija %ld
+; Version %ld
+;
+MSG_SIZE
+VeliŸina %d
+; Size %d
+;

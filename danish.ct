@@ -1,0 +1,184 @@
+## version $VER: snoopy.catalog 2.0 (06.08.2026)
+## language dansk
+## codeset 0
+;
+MSG_TITLE
+Snoopy
+; Snoopy
+;
+MSG_COPYRIGHT
+\xa9 2006-2008, The AROS Development Team
+; \xa9 2006-2008, The AROS Development Team
+;
+MSG_AUTHOR
+The AROS Development Team
+; The AROS Development Team
+;
+MSG_PORTNAME
+SNOOPY
+; SNOOPY
+;
+MSG_DESCRIPTION
+Simpel systemovervågning
+; Simple system monitor
+;
+MSG_SETTINGS
+Indstillinger
+; Settings
+;
+MSG_SHOW_FAILS
+Vis kun fejl
+; Only show fails
+;
+MSG_CLI_NUMBER
+Vis CLI-nummer
+; Show CLI number
+;
+MSG_FULL_PATH
+Vis fulde stier
+; Show full paths
+;
+MSG_DEVICE
+Brug enhedsnavne
+; Use device names
+;
+MSG_IGNORE_WB
+Ignorér Workbench/Shell
+; Ignore Workbench/Shell
+;
+MSG_BREAKPOINT
+Sæt breakpoint
+; Set breakpoint
+;
+MSG_MATCH
+Match navn
+; Match name
+;
+MSG_SYSTEM_FUNC
+Systemfunktioner
+; System Functions
+;
+MSG_DOS_FUNC
+AmigaDOS-funktioner
+; AmigaDOS Functions
+;
+MSG_SAVE
+Gem
+; Save
+;
+MSG_OPEN
+Åbn
+; Open
+;
+MSG_USE
+Brug
+; Use
+;
+MSG_UNDO
+Fortryd
+; Undo
+;
+MSG_RESET
+Nulstil
+; Reset
+;
+MSG_CANCEL
+Afbryd
+; Cancel
+;
+MSG_OUTPUT_FIELD
+Bredde på uddatafelt
+; Output Field Width
+;
+MSG_NAME
+Navn
+; Name
+;
+MSG_ACTION
+Handling
+; Action
+;
+MSG_TARGET
+Mål
+; Target
+;
+MSG_OPTION
+Indstilling
+; Option
+;
+MSG_OK
+OK
+; OK
+;
+MSG_FAIL
+Fejl
+; Fail
+;
+MSG_ERROR_SAVE
+Der opstod en fejl under gemning til %s
+; An error happened when saving to %s
+;
+MSG_ERROR_LOAD
+Der opstod en fejl under indlæsning fra %s
+; An error happened when loading from %s
+;
+MSG_RESET_PATCHES
+Nulstil patches|Afbryd
+; Reset Patches|Cancel
+;
+MSG_ASK_RESET
+Ønsker du virkelig at nulstille patchene til deres oprindelige funktioner?
+; Do you really want to reset the patches to their original functions?
+;
+MSG_REMOVE_SNOOP
+Fjern|Behold
+; Remove|Keep
+;
+MSG_ASK_REMOVE
+Ønsker du virkelig at fjerne Snoopy-processen?\nDet kan være ret farligt, hvis en anden opgave har patchet Snoopys patches.
+; Do you really want to remove the Snoopy process?\nThis can be quite dangerous when another task has patched Snoopy's patches.
+;
+MSG_GLOBAL
+Global
+; Global
+;
+MSG_LOCAL
+Lokal
+; Local
+;
+MSG_ALIAS
+Alias
+; Alias
+;
+MSG_UNKNOWN
+Ukendt
+; Unknown
+;
+MSG_ANY
+Alle
+; Any
+;
+MSG_READ
+Læs
+; Read
+;
+MSG_WRITE
+Skriv
+; Write
+;
+MSG_READ_ASK
+Read???
+; Read???
+;
+MSG_MODIFY
+Ændr
+; Modify
+;
+MSG_VERSION
+Version %ld
+; Version %ld
+;
+MSG_SIZE
+Størrelse %d
+; Size %d
+;

@@ -1,0 +1,184 @@
+## version $VER: snoopy.catalog 2.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_TITLE
+Snoopy
+; Snoopy
+;
+MSG_COPYRIGHT
+\xa9 2006-2008, AROS Geliþtirme Ekibi
+; \xa9 2006-2008, The AROS Development Team
+;
+MSG_AUTHOR
+AROS Geliþtirme Ekibi
+; The AROS Development Team
+;
+MSG_PORTNAME
+SNOOPY
+; SNOOPY
+;
+MSG_DESCRIPTION
+Basit sistem izleyici
+; Simple system monitor
+;
+MSG_SETTINGS
+Ayarlar
+; Settings
+;
+MSG_SHOW_FAILS
+Yalnýzca baþarýsýzlarý göster
+; Only show fails
+;
+MSG_CLI_NUMBER
+CLI numarasýný göster
+; Show CLI number
+;
+MSG_FULL_PATH
+Tam yollarý göster
+; Show full paths
+;
+MSG_DEVICE
+Aygýt adlarýný kullan
+; Use device names
+;
+MSG_IGNORE_WB
+Workbench/Shell yok say
+; Ignore Workbench/Shell
+;
+MSG_BREAKPOINT
+Kesme noktasý koy
+; Set breakpoint
+;
+MSG_MATCH
+Ad eþleþtir
+; Match name
+;
+MSG_SYSTEM_FUNC
+Sistem Ýþlevleri
+; System Functions
+;
+MSG_DOS_FUNC
+AmigaDOS Ýþlevleri
+; AmigaDOS Functions
+;
+MSG_SAVE
+Kaydet
+; Save
+;
+MSG_OPEN
+Aç
+; Open
+;
+MSG_USE
+Kullan
+; Use
+;
+MSG_UNDO
+Geri Al
+; Undo
+;
+MSG_RESET
+Sýfýrla
+; Reset
+;
+MSG_CANCEL
+Vazgeç
+; Cancel
+;
+MSG_OUTPUT_FIELD
+Çýktý Alaný Geniþliði
+; Output Field Width
+;
+MSG_NAME
+Adý
+; Name
+;
+MSG_ACTION
+Eylem
+; Action
+;
+MSG_TARGET
+Hedef
+; Target
+;
+MSG_OPTION
+Seçenek
+; Option
+;
+MSG_OK
+TAMAM
+; OK
+;
+MSG_FAIL
+Baþarýsýz
+; Fail
+;
+MSG_ERROR_SAVE
+%s konumuna kaydedilirken bir hata oluþtu
+; An error happened when saving to %s
+;
+MSG_ERROR_LOAD
+%s konumundan yüklenirken bir hata oluþtu
+; An error happened when loading from %s
+;
+MSG_RESET_PATCHES
+Yamalarý Sýfýrla|Vazgeç
+; Reset Patches|Cancel
+;
+MSG_ASK_RESET
+Yamalarý orijinal iþlevlerine gerçekten sýfýrlamak istiyor musunuz?
+; Do you really want to reset the patches to their original functions?
+;
+MSG_REMOVE_SNOOP
+Kaldýr|Koru
+; Remove|Keep
+;
+MSG_ASK_REMOVE
+Snoopy iþlemini gerçekten kaldýrmak istiyor musunuz?\nBaþka bir görev Snoopy'nin yamalarýný yamaladýysa bu oldukça tehlikeli olabilir.
+; Do you really want to remove the Snoopy process?\nThis can be quite dangerous when another task has patched Snoopy's patches.
+;
+MSG_GLOBAL
+Genel
+; Global
+;
+MSG_LOCAL
+Yerel
+; Local
+;
+MSG_ALIAS
+Takma ad
+; Alias
+;
+MSG_UNKNOWN
+Bilinmiyor
+; Unknown
+;
+MSG_ANY
+Herhangi
+; Any
+;
+MSG_READ
+Oku
+; Read
+;
+MSG_WRITE
+Yaz
+; Write
+;
+MSG_READ_ASK
+Oku???
+; Read???
+;
+MSG_MODIFY
+Deðiþtir
+; Modify
+;
+MSG_VERSION
+Sürüm %ld
+; Version %ld
+;
+MSG_SIZE
+Boyut %d
+; Size %d
+;

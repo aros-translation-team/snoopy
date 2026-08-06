@@ -1,0 +1,184 @@
+## version $VER: snoopy.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_TITLE
+Snoopy
+; Snoopy
+;
+MSG_COPYRIGHT
+\xa9 2006-2008, AROS-kehitysryhmä
+; \xa9 2006-2008, The AROS Development Team
+;
+MSG_AUTHOR
+AROS-kehitysryhmä
+; The AROS Development Team
+;
+MSG_PORTNAME
+SNOOPY
+; SNOOPY
+;
+MSG_DESCRIPTION
+Yksinkertainen järjestelmävalvonta
+; Simple system monitor
+;
+MSG_SETTINGS
+Asetukset
+; Settings
+;
+MSG_SHOW_FAILS
+Näytä vain epäonnistumiset
+; Only show fails
+;
+MSG_CLI_NUMBER
+Näytä CLI-numero
+; Show CLI number
+;
+MSG_FULL_PATH
+Näytä täydet polut
+; Show full paths
+;
+MSG_DEVICE
+Käytä laitenimiä
+; Use device names
+;
+MSG_IGNORE_WB
+Ohita Workbench/Shell
+; Ignore Workbench/Shell
+;
+MSG_BREAKPOINT
+Aseta keskeytyskohta
+; Set breakpoint
+;
+MSG_MATCH
+Nimen vastaavuus
+; Match name
+;
+MSG_SYSTEM_FUNC
+Järjestelmäfunktiot
+; System Functions
+;
+MSG_DOS_FUNC
+AmigaDOS-funktiot
+; AmigaDOS Functions
+;
+MSG_SAVE
+Tallenna
+; Save
+;
+MSG_OPEN
+Avaa
+; Open
+;
+MSG_USE
+Käytä
+; Use
+;
+MSG_UNDO
+Peru
+; Undo
+;
+MSG_RESET
+Palauta
+; Reset
+;
+MSG_CANCEL
+Peru
+; Cancel
+;
+MSG_OUTPUT_FIELD
+Tulostuskentän leveys
+; Output Field Width
+;
+MSG_NAME
+Nimi
+; Name
+;
+MSG_ACTION
+Toiminto
+; Action
+;
+MSG_TARGET
+Kohde
+; Target
+;
+MSG_OPTION
+Valinta
+; Option
+;
+MSG_OK
+Hyväksy
+; OK
+;
+MSG_FAIL
+Epäonnistui
+; Fail
+;
+MSG_ERROR_SAVE
+Virhe tallennettaessa kohteeseen %s
+; An error happened when saving to %s
+;
+MSG_ERROR_LOAD
+Virhe ladattaessa kohteesta %s
+; An error happened when loading from %s
+;
+MSG_RESET_PATCHES
+Palauta paikkaukset|Peru
+; Reset Patches|Cancel
+;
+MSG_ASK_RESET
+Haluatko varmasti palauttaa paikkaukset alkuperäisiin funktioihin?
+; Do you really want to reset the patches to their original functions?
+;
+MSG_REMOVE_SNOOP
+Poista|Säilytä
+; Remove|Keep
+;
+MSG_ASK_REMOVE
+Haluatko varmasti poistaa Snoopy-prosessin?\nTämä voi olla melko vaarallista, jos toinen tehtävä on paikannut Snoopyn paikkauksia.
+; Do you really want to remove the Snoopy process?\nThis can be quite dangerous when another task has patched Snoopy's patches.
+;
+MSG_GLOBAL
+Globaali
+; Global
+;
+MSG_LOCAL
+Paikallinen
+; Local
+;
+MSG_ALIAS
+Alias
+; Alias
+;
+MSG_UNKNOWN
+Tuntematon
+; Unknown
+;
+MSG_ANY
+Kaikki
+; Any
+;
+MSG_READ
+Luku
+; Read
+;
+MSG_WRITE
+Kirjoitus
+; Write
+;
+MSG_READ_ASK
+Luku???
+; Read???
+;
+MSG_MODIFY
+Muokkaa
+; Modify
+;
+MSG_VERSION
+Versio %ld
+; Version %ld
+;
+MSG_SIZE
+Koko %d
+; Size %d
+;

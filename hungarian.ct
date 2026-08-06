@@ -1,0 +1,184 @@
+## version $VER: snoopy.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_TITLE
+Snoopy
+; Snoopy
+;
+MSG_COPYRIGHT
+\xa9 2006-2008, Az AROS fejlesztõcsapata
+; \xa9 2006-2008, The AROS Development Team
+;
+MSG_AUTHOR
+Az AROS fejlesztõcsapata
+; The AROS Development Team
+;
+MSG_PORTNAME
+SNOOPY
+; SNOOPY
+;
+MSG_DESCRIPTION
+Egyszerû rendszerfigyelõ
+; Simple system monitor
+;
+MSG_SETTINGS
+Beállítások
+; Settings
+;
+MSG_SHOW_FAILS
+Csak a sikertelenek mutatása
+; Only show fails
+;
+MSG_CLI_NUMBER
+CLI szám mutatása
+; Show CLI number
+;
+MSG_FULL_PATH
+Teljes útvonalak mutatása
+; Show full paths
+;
+MSG_DEVICE
+Eszköznevek használata
+; Use device names
+;
+MSG_IGNORE_WB
+Workbench/Shell mellõzése
+; Ignore Workbench/Shell
+;
+MSG_BREAKPOINT
+Töréspont beállítása
+; Set breakpoint
+;
+MSG_MATCH
+Névegyezés
+; Match name
+;
+MSG_SYSTEM_FUNC
+Rendszerfüggvények
+; System Functions
+;
+MSG_DOS_FUNC
+AmigaDOS függvények
+; AmigaDOS Functions
+;
+MSG_SAVE
+Ment
+; Save
+;
+MSG_OPEN
+Megnyitás
+; Open
+;
+MSG_USE
+Használ
+; Use
+;
+MSG_UNDO
+Visszavonás
+; Undo
+;
+MSG_RESET
+Visszaállítás
+; Reset
+;
+MSG_CANCEL
+Mégsem
+; Cancel
+;
+MSG_OUTPUT_FIELD
+Kimeneti mezõ szélessége
+; Output Field Width
+;
+MSG_NAME
+Név
+; Name
+;
+MSG_ACTION
+Mûvelet
+; Action
+;
+MSG_TARGET
+Cél
+; Target
+;
+MSG_OPTION
+Opció
+; Option
+;
+MSG_OK
+Oké
+; OK
+;
+MSG_FAIL
+Sikertelen
+; Fail
+;
+MSG_ERROR_SAVE
+Hiba történt a(z) %s mentése közben
+; An error happened when saving to %s
+;
+MSG_ERROR_LOAD
+Hiba történt a(z) %s betöltése közben
+; An error happened when loading from %s
+;
+MSG_RESET_PATCHES
+Patchek visszaállítása|Mégsem
+; Reset Patches|Cancel
+;
+MSG_ASK_RESET
+Valóban vissza akarod állítani a patcheket az eredeti függvényekre?
+; Do you really want to reset the patches to their original functions?
+;
+MSG_REMOVE_SNOOP
+Eltávolítás|Megtartás
+; Remove|Keep
+;
+MSG_ASK_REMOVE
+Valóban el akarod távolítani a Snoopy folyamatot?\nEz eléggé veszélyes lehet, ha egy másik taszk patchelte a Snoopy patcheit.
+; Do you really want to remove the Snoopy process?\nThis can be quite dangerous when another task has patched Snoopy's patches.
+;
+MSG_GLOBAL
+Globális
+; Global
+;
+MSG_LOCAL
+Helyi
+; Local
+;
+MSG_ALIAS
+Álnév
+; Alias
+;
+MSG_UNKNOWN
+Ismeretlen
+; Unknown
+;
+MSG_ANY
+Bármely
+; Any
+;
+MSG_READ
+Olvasás
+; Read
+;
+MSG_WRITE
+Írás
+; Write
+;
+MSG_READ_ASK
+Read???
+; Read???
+;
+MSG_MODIFY
+Módosítás
+; Modify
+;
+MSG_VERSION
+Verzió %ld
+; Version %ld
+;
+MSG_SIZE
+Méret %d
+; Size %d
+;
