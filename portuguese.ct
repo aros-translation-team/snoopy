@@ -1,4 +1,4 @@
-## version $VER: snoopy.catalog 1.0 (06.09.2008)
+## version $VER: snoopy.catalog 2.0 (06.08.2026)
 ## language português
 ## codeset 0
 ;
@@ -49,6 +49,14 @@ Usar nomes de dispo.
 MSG_IGNORE_WB
 Ignorar Workbench/Shell
 ;Ignore Workbench/Shell
+;
+MSG_BREAKPOINT
+Definir breakpoint
+; Set breakpoint
+;
+MSG_MATCH
+Filtrar por nome
+; Match name
 ;
 MSG_SYSTEM_FUNC
 Funções de Sistema
